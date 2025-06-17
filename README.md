@@ -59,7 +59,7 @@ Leads are classified based on presence of key metadata and intent.
 ## 🖼️ Screenshots
 
 ### 🔹 User Form – Start Chat
-![Start Chat](frontend/screenshots/start-chat.png)
+![Start Chat](./frontend/screenshots/start_chat.png)
 
 ### 🔹 Real Estate Chat Interface
 ![Real Estate Chat](./screenshots/Screenshot%202025-06-17%20183057.png)
