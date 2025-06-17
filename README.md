@@ -28,22 +28,6 @@ GrowEasy is an AI-powered full-stack web application that simulates a WhatsApp-s
 
 ---
 
-## 📦 Project Structure
-
-groweasy-chatbot/
-├──client/ # Frontend (React)
-│ ├── components/ # ChatWindow, LeadForm, MessageBubble
-│ └── App.js
-├── server/ # Backend (Node.js + Express)
-│ ├── routes/chat.js
-│ ├── utils/classifyLead.js
-│ ├── utils/extractMetadata.js
-│ └── app.js
-├── public/
-├── README.md
-└── package.json
----
-
 ## 🧪 How It Works
 
 1. User interacts with a chatbot like in WhatsApp.
@@ -72,3 +56,10 @@ Each business domain has its own set of metadata fields. Example:
 Leads are classified based on presence of key metadata and intent.
 
 ---
+### 3. Add your OpenRouter API key
+
+Create a `.env` file inside the `/server` directory and add your API key like this:
+
+```ini
+OPENROUTER_API_KEY=your-api-key-here
+
