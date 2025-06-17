@@ -56,6 +56,18 @@ Each business domain has its own set of metadata fields. Example:
 Leads are classified based on presence of key metadata and intent.
 
 ---
+## 🖼️ Screenshots
+
+### 🔹 User Form – Start Chat
+![Start Chat Form](C:/Users/suhit/OneDrive\画像\Screenshots\Screenshot 2025-06-17 182928.png")
+
+### 🔹 Real Estate Chat Interface
+![Real Estate Chat](./screenshots/Screenshot%202025-06-17%20183057.png)
+
+### 🔹 Lead Classification Output
+![Lead Classification](./screenshots/Screenshot%202025-06-17%20183159.png)
+
+---
 ### 3. Add your OpenRouter API key
 
 Create a `.env` file inside the `/server` directory and add your API key like this:
