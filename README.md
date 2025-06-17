@@ -62,10 +62,10 @@ Leads are classified based on presence of key metadata and intent.
 ![Start Chat](./frontend/screenshots/start_chat.png)
 
 ### 🔹 Real Estate Chat Interface
-![Real Estate Chat](./screenshots/Screenshot%202025-06-17%20183057.png)
+![Real Estate Chat](./frontend/screenshots/chat_ui.png)
 
 ### 🔹 Lead Classification Output
-![Lead Classification](./screenshots/Screenshot%202025-06-17%20183159.png)
+![Lead Classification](./frontend/screenshots/lead_result.png)
 
 
 ---
